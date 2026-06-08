@@ -2,3 +2,13 @@ git init-> inicializa o rastreio do repositorio.
 git add .-> adiciona os arquivos na área de rastreio.
 git status-> serve para verificar o status do repositório.
 git commit -m""-> salva as alterações realizadas no repositório.
+git log-> serve para visualizar o histórico de commits.
+git config --global user.nome->configura o nome do usuario na máquina.
+git config --global user.email->configura o email do usuario na máquina.
+git clone->Clona o repositório
+git branch->serve para visualizar as branches na máquina.
+git branch nome-da-branch->cria uma nova branch.
+git checkout->serve para trocar a branch.
+git pull->serve para puxar as alterações que estão salvas no GitHub.
+git push->serve para enviar as alterações do repositório local para o GitHub.
+git merge->mescla o conteúdo de duas branches diferentes.
